@@ -4,7 +4,7 @@ This is the beta web app for Aylee's Angels, Inc.
 This company is dedicated to assisting families that experience miscarriage, stillbirth or infant loss.
 
 
-![Logo Main](/public/LogoMain.jpg)<br>
+![Logo Main](client/public/LogoMain.jpg)<br>
 
 ## Functionalities Needed
 
