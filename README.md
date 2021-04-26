@@ -8,12 +8,12 @@ This company is dedicated to assisting families that experience miscarriage, sti
 
 ## Functionalities Needed
 
-User Login
-Link to partner sites
-Message posting
-Database 
-Ecommerce transactions
-Admin User Site Updates
+- User Login
+- Link to partner sites
+- Message posting
+- Database 
+- Ecommerce transactions
+- Admin User Site Updates
 
 
 ## Current Technology 
