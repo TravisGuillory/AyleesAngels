@@ -1,0 +1,51 @@
+body {
+    
+    color: #14361d;
+    font-family:  'Lora', 'Arial', 'Times New Roman', serif;
+    
+  }
+.navbar{
+  color: #14361d;
+}
+.navbar-brand{
+  color: #14361d;
+}
+.navbar-toggler{
+  color: #14361d;
+}
+.navbar-brand .navbar-nav .navbar-item {
+  color: #14361d;
+}
+.nav-link {
+  color: #14361d;
+}
+
+
+  header.masthead {
+    /* margin-bottom: 500px; */
+    margin-auto;
+    height: auto;
+    width: auto;
+    background-color: #ffffff;
+    
+  }
+
+  header img{
+    opacity: 1.0;
+    width: 60%;
+    height: auto;
+    
+
+  }
+
+  #postListContainer{
+    background-color: #d7fcd7;
+    border-radius: 2%;
+  }
+
+  .copyright {
+    
+    line-height: 1.5;
+    margin: 30px 0;
+  }
+
