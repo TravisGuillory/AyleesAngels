@@ -5,7 +5,7 @@ This company is dedicated to assisting families that experience miscarriage, sti
 
 ![Logo Main](client/public/LogoMain.jpg)<br>
 
-Deployed app
+Deployed app: 
 https://ayleesangels-beta.herokuapp.com<br>
 
 ## Functionalities Needed
