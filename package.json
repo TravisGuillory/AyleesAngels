@@ -4,7 +4,9 @@
   "description": "This is the beta web app for Aylee's Angels, Inc.  This company is dedicated to assisting families that experience miscarriage, stillbirth or infant loss.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
