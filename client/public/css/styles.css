@@ -1,7 +1,7 @@
 body {
-    
+    margin: 0;
     color: #14361d;
-    font-family:  'Lora', 'Arial', 'Times New Roman', serif;
+    font-family:  'Lora','Roboto', -apple-system, 'Arial', 'Times New Roman', serif, sans-serif;
     
   }
 .navbar{
