@@ -8,7 +8,7 @@ export const Contact = (props) => {
     return (
         <>
         <Nav />
-        <Header imgName="img/LogoMain.jpg"
+        <Header imgName="LogoMain.jpg"
                 altImg = "Company Logo Image" 
                 title="Contact Us" 
                 subtitle="Please let us know if there is a question." 
